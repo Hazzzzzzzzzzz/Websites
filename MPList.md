@@ -25,3 +25,10 @@
 - [Light Mayo](https://www.kroger.com/p/hellmann-s-light-mayo/0004800135428?fulfillment=PICKUP&searchType=default_search)
 - [Mint](https://www.kroger.com/p/simple-truth-organic-mint/0001111001818?fulfillment=PICKUP&searchType=default_search)
 - [Peppermint Tea](https://www.kroger.com/p/bigelow-peppermint-herbal-tea-bags/0007231000039?fulfillment=PICKUP&searchType=default_search)
+
+## Substitutions 
+
+### All:
+- [Peppermint Tea](https://www.kroger.com/p/twinings-of-london-pure-peppermint-herbal-tea-bags/0007017706777?fulfillment=PICKUP&searchType=default_search)
+- [Tuna](https://www.kroger.com/p/wild-planet-albacore-wild-tuna/0082969600053?fulfillment=PICKUP&searchType=default_search)
+- 
