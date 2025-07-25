@@ -10,3 +10,14 @@
 - Sandwich (Turkey, Lettuce, Cucumber, Mayo)
 - Orange
 - Water
+
+### Dinner:
+- Hard-Boiled Egg
+- Baby Carrots + Cucumbers
+- 
+
+### Snack:
+- Apple Slices OR
+- Hard-Boiled Egg OR
+- A Handfull of Nuts
+
