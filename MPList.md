@@ -26,7 +26,7 @@
 - [Mint](https://www.kroger.com/p/simple-truth-organic-mint/0001111001818?fulfillment=PICKUP&searchType=default_search)
 - [Peppermint Tea](https://www.kroger.com/p/bigelow-peppermint-herbal-tea-bags/0007231000039?fulfillment=PICKUP&searchType=default_search)
 
-## Substitutions 
+## Substitutions (Don't get unless specifically asked for!)
 
 ### All:
 - [Peppermint Tea](https://www.kroger.com/p/twinings-of-london-pure-peppermint-herbal-tea-bags/0007017706777?fulfillment=PICKUP&searchType=default_search)
