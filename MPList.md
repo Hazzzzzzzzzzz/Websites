@@ -1,4 +1,4 @@
-# Meal Plan Grocery List [Kroger Based]
+# Meal Plan Grocery List [Kroger Based] [$40]
 
 ## Full List:
 ### Proteins:
