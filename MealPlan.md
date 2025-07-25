@@ -1,6 +1,8 @@
 ## Meal Plan
 
 *Balance!*
+*Don't eat if your bored, instead take a walk, draw, or read a book!*
+*Keep drinking water!*
 
 ### Breakfast:
 - 2 Scrambled Eggs
